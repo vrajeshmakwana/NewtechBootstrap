@@ -1,0 +1,115 @@
+.container-fluid {
+    width: 98%;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.carousel-inner {
+    height: 400px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+#p1 {
+    opacity: 1.5;
+    font-size: 30px;
+    margin-bottom: 15px;
+    color: black;
+}
+
+#p2 {
+    opacity: 1.5;
+    font-size: 30px;
+    margin-bottom: 442px;
+}
+
+#p3 {
+    opacity: 1.5;
+    font-size: 30px;
+    margin-bottom: 444px;
+}
+
+#text {
+    color: yellow;
+    opacity: 1.5;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    position: absolute;
+    top: 288px;
+    left: 557px;
+}
+
+#text2 {
+    color: green;
+    opacity: 27.5;
+    font-size: 2rem;
+    position: absolute;
+    top: 288px;
+    left: 557px;
+
+}
+
+#text3 {
+    color: cyan;
+    opacity: 27.5;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    position: absolute;
+    top: 288px;
+    left: 557px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    font-size: 20px;
+
+}
+
+#navbtn {
+    font-size: 25px;
+
+}
+
+.btn {
+    font-size: 17px;
+    margin-top: 1px;
+    margin-left: 2px;
+}
+
+#c1 {
+    height: 368px;
+    margin-right: 5px;
+}
+
+#c2 {
+    height: 47%;
+}
+
+#c0 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.card-img-top {
+    height: 47%;
+}
+
+#d1 {
+    height: 451px;
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+#d2 {
+    height: 300px;
+    width: 100%;
+}
+
+* {
+
+    scroll-behavior: smooth;
+}
